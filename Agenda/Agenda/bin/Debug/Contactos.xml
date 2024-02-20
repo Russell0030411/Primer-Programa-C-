@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Contactos>
+    <cNombres>a</cNombres>
+    <cApellidos>a</cApellidos>
+    <cGenero>a</cGenero>
+    <cTelefono>1234-5678</cTelefono>
+  </Contactos>
+  <Contactos>
+    <cNombres>aB</cNombres>
+    <cApellidos>b</cApellidos>
+    <cGenero>Otro</cGenero>
+    <cTelefono>1234-5678</cTelefono>
+  </Contactos>
+  <Contactos>
+    <cNombres>a</cNombres>
+    <cApellidos>a</cApellidos>
+    <cGenero>a</cGenero>
+    <cTelefono>1234-5678</cTelefono>
+  </Contactos>
+  <Contactos>
+    <cNombres>ee</cNombres>
+    <cApellidos>e</cApellidos>
+    <cGenero>e</cGenero>
+    <cTelefono>1234-5678</cTelefono>
+  </Contactos>
+</DocumentElement>

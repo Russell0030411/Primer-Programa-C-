@@ -1,0 +1,11 @@
+C:\Users\russe\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\russe\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\russe\source\repos\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\russe\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.AssemblyReference.cache
+C:\Users\russe\source\repos\Agenda\Agenda\obj\Debug\Agenda.ControlesGestion.resources
+C:\Users\russe\source\repos\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\russe\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+C:\Users\russe\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\russe\source\repos\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\russe\source\repos\Agenda\Agenda\obj\Debug\Agenda.pdb
+C:\Users\russe\source\repos\Agenda\Agenda\obj\Debug\Agenda.Agregar_Usuario.resources
